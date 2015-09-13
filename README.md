@@ -1,0 +1,2 @@
+# beauty-prototype
+Initial prototype
